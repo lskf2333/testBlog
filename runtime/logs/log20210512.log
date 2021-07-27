@@ -1,0 +1,2 @@
+[INFO][article.go:77]2021/05/12 17:02:44 [state 状态只允许0或1]
+[INFO][article.go:77]2021/05/12 17:02:44 [tag_id 标签ID必须大于0]
